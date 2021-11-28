@@ -308,6 +308,28 @@ background: linear-gradient(85deg, rgba(210 78 163 / 43%) 30%, rgba(216 42 24 / 
   text-decoration: none;
 }
 
+.grad1{
+    background-image: linear-gradient(#c9efff, white);
+    border-radius: 5px;
+}
+.grad1 img{
+    max-width: 60%;
+    opacity: 0.7;
+}
+.grad1:hover{
+    background-image: linear-gradient(#4DA6D6, #4DA6D6);
+    color: white;
+    opacity: 0.9;
+}
+.grad1 a{
+    color: #26b1ed;
+}
+.grad1:hover .link1{
+    color: white;
+}
+
+
+
 
 
 
